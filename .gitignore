@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+
+# Data & outputs
+data/
+result/
+artifacts/
+*.csv
+*.json
+*.db
+
+# Local env
+.env
