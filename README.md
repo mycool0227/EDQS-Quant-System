@@ -31,7 +31,7 @@ EDQS 是一套端到端的量化研究与交易辅助平台。系统通过大语
 ```powershell
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
-
+```
 
 ### 2) Install dependencies
 ```powershell
