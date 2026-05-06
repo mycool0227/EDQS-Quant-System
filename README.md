@@ -24,7 +24,7 @@ EDQS 是一套端到端的量化研究与交易辅助平台。系统通过大语
 ├── MetricsPlotter.py         # 可视化报告生成工具
 └── data/                     # (本地数据目录，建议放置概念板块.csv等)
 
-## Quick Start (Windows)
+### Quick Start (Windows)
 
 ### 1) Create a virtual environment
 ```powershell
