@@ -23,6 +23,7 @@ EDQS 是一套端到端的量化研究与交易辅助平台。系统通过大语
 ├── rolling_weekly_backtest.py# 周频回测与权重分配模块
 ├── MetricsPlotter.py         # 可视化报告生成工具
 └── data/                     # (本地数据目录，建议放置概念板块.csv等)
+```
 
 ### Quick Start (Windows)
 
@@ -30,7 +31,7 @@ EDQS 是一套端到端的量化研究与交易辅助平台。系统通过大语
 ```powershell
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
-```
+
 
 ### 2) Install dependencies
 ```powershell
